@@ -1,5 +1,5 @@
 # Author: Benoit Chamot
-# Version: 1.0 (submission, revision)
+# Version: 1.1 (submission 1, revision 1)
 # Date: 19 June 2023
 #
 # Description of process:
@@ -7,7 +7,7 @@
 # - for each row, add vote count (one line = one vote) to candidate
 # - for each candidate, calculate % of vote = # vote / total votes
 # - select the candidate with higher % of vote as winner
-# - print output on termainal and to file Analysis/vote_results.txt
+# - print output on terminal and to file Analysis/vote_results.txt
 
 # Import all necessary modules
 import os
