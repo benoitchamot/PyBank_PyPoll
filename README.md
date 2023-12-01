@@ -1,8 +1,4 @@
-# python-challenge
-Repository for Monash University Bootcamp Module 3
-- Exercise 1: PyBank
-- Exercise 2: PyPoll
-
+# PyBank & PyPoll
 _Important note:_ Please run both main.py scripts from their own directories (PyRoll and PyBank) or the loading and saving of files may not work.
 
 ## File structure
